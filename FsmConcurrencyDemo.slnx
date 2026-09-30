@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FsmConcurrencyDemo.App/FsmConcurrencyDemo.App.csproj" />
+  <Project Path="FsmConcurrencyDemo.Core/FsmConcurrencyDemo.Core.csproj" />
+</Solution>
